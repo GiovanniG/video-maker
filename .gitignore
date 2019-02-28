@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# Outros extensões a serem ignoradas
+.index.js.swn
+.index.js.swo
+.index.js.swp
+*.swn
+*.swo
+*.swp
