@@ -67,3 +67,6 @@ typings/
 *.swn
 *.swo
 *.swp
+
+#credentials
+credentials/*.json
